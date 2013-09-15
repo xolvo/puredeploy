@@ -1,0 +1,9 @@
+{
+  "name": "puredeploy",
+  "description": "Simple http app to handle GitHub webhook requests",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  }
+}
